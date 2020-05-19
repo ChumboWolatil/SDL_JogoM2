@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x -g   CMakeFiles/Jogo_SDL_M2.dir/main.cpp.o CMakeFiles/Jogo_SDL_M2.dir/tudo.cpp.o CMakeFiles/Jogo_SDL_M2.dir/mostra.cpp.o  -o Jogo_SDL_M2  -lSDL2 -lSDL2_image -lSDL2 -lSDL2_ttf -lSDL2 -lSDL2_image -lSDL2_ttf 

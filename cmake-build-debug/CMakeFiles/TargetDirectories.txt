@@ -1,0 +1,3 @@
+/home/ernani/CLionProjects/Jogo-SDL-M2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ernani/CLionProjects/Jogo-SDL-M2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ernani/CLionProjects/Jogo-SDL-M2/cmake-build-debug/CMakeFiles/Jogo_SDL_M2.dir
